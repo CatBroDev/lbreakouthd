@@ -1,0 +1,75 @@
+{
+  "keyboard": [
+    "Left / Right",
+    "Space",
+    "V",
+    "Up / Down",
+    "Enter",
+    "Esc",
+    "Y",
+    "N",
+    "P",
+    "X",
+    "C",
+    "Backspace",
+    "W"
+  ],
+  "bindings": [
+    {
+      "input": "Left / Right",
+      "action": "Move the paddle left or right"
+    },
+    {
+      "input": "Space",
+      "action": "Fire or release a ball from the paddle"
+    },
+    {
+      "input": "V",
+      "action": "Fire or release a ball from the other side of the paddle"
+    },
+    {
+      "input": "Up / Down",
+      "action": "Move through menu choices"
+    },
+    {
+      "input": "Enter",
+      "action": "Confirm the selected menu option"
+    },
+    {
+      "input": "Esc",
+      "action": "Open the quit-game question or go back in menus"
+    },
+    {
+      "input": "Y",
+      "action": "Confirm a yes/no question"
+    },
+    {
+      "input": "N",
+      "action": "Cancel a yes/no question"
+    },
+    {
+      "input": "P",
+      "action": "Pause or resume the game"
+    },
+    {
+      "input": "X",
+      "action": "Hold to accelerate paddle movement"
+    },
+    {
+      "input": "C",
+      "action": "Hold to speed up balls"
+    },
+    {
+      "input": "Backspace",
+      "action": "Recall an idle ball when allowed"
+    },
+    {
+      "input": "W",
+      "action": "Warp to the next level when the game permits it"
+    }
+  ],
+  "gamepad": [],
+  "mouse": [
+    "Move the mouse to position the paddle; left or right button releases balls or fires available weapons."
+  ]
+}

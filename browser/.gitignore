@@ -1,0 +1,6 @@
+/build/
+/evidence/
+/author-source/
+/emsdk/
+/node_modules/
+/package-lock.json
